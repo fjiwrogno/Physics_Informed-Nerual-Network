@@ -22,8 +22,11 @@ To get a good performance in wider frequency domain in bode plot, there are seve
 However, the effort could large. Compared to directly fit the transfer function, I think a more feasible way to realize our goal is to fit the differenate equation, where the transfer function comes from.
 For example, the first transfer equation could be changed into the following form:
 ![alt text](image.png)
+
 ## Env
+
 system requirement: python version >= 3.10
+
 ```
-s
+conda env create -f pinn_env.yml
 ```
