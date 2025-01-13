@@ -1,1 +1,1 @@
-
+The code is in "PINN_all_configurations.ipynb", the other files have been created as datasets for training and as the best model while training, by downloading it you can avoid having to wait for the full model to train in case you want to visualize the results.
